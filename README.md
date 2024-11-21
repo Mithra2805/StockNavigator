@@ -1,0 +1,1 @@
+**StockNavigator** is a stock price prediction tool that leverages machine learning to forecast market movements. By analyzing historical stock data, it predicts whether the stock price will go up or down in the next period. This intuitive platform empowers traders with insights to make informed decisions in the financial markets.
